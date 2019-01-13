@@ -13,6 +13,7 @@ var setFramerate = 60;
 function preload() {
 	stick1 = loadSound("assets/stick1.wav");
 	stick2 = loadSound("assets/stick2.wav");
+	//TODO: add meow
 }
 
 function setup() {
